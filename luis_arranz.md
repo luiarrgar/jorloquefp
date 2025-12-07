@@ -1,6 +1,7 @@
-## Frameworks
-- Framework 1
-- Framework 2
-- Framework 3
+## Lenguajes
+- Lenguaje 1
+- Lenguaje 2
+- Lenguaje 3
+
  
 
